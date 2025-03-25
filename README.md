@@ -15,10 +15,12 @@ git clone https://github.com/sabirmgd/code-craft-public.git
 cd code-craft-public
 ```
 
-2. Run it:
+3. Run it:
 ```
 chmod +x run-code-craft.sh
 ./run-code-craft.sh <DOCKER_HUB_TOKEN>
 ```
+4. Go to http://localhost:3000 and get started
 
 You need to obtain the docker hub token first. 
+
