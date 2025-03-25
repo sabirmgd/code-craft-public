@@ -9,6 +9,11 @@ To start, you will need to run the following command:
 git clone https://github.com/sabirmgd/code-craft-public.git
 ```
 
+2. 
+
+```
+cd code-craft-public
+```
 
 2. Run it:
 ```
